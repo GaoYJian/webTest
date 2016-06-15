@@ -1,2 +1,2 @@
 # weixin_project
-weixin_project1
+基于java web的微信项目
